@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+matplotlib
+Pillow
+torch
+torchvision
+transformers
+sentencepiece
+ipywidgets
+python-Levenshtein
